@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "40c4898cf7dbd5e31326993a8eed2927",
+  "main.dart.js": "0614aa3e71c5d948f0db352b3eee7032",
 "version.json": "e18077f141ab3ce783b7316d215813c8",
 "assets/AssetManifest.json": "0709cb371470acaba1c5ea496d9aea2d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -13,9 +13,9 @@ const RESOURCES = {
 "assets/assets/images/WernerBauch2.jpeg": "a7b8a437bbdc61a3e500f7ee3a3269b2",
 "assets/assets/images/tu.jpg": "c33bf2584668bcb0143d7bbf54e62414",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/NOTICES": "40543534e426fd37dc19bb1c672efa7e",
-"index.html": "31c8c0f347b358805e726c1505fb6509",
-"/": "31c8c0f347b358805e726c1505fb6509",
+"assets/NOTICES": "bd4ecab5376d1a0cec19bfc1b45d20fd",
+"index.html": "a6a256c82de49d4b6b955434852da576",
+"/": "a6a256c82de49d4b6b955434852da576",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
